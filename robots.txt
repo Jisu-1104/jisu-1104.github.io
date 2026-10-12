@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jisu.kim1104.github.io/sitemap.xml
+Sitemap: https://jisu-1104.github.io/sitemap.xml
